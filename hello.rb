@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  "Hello World, AIIT!"
+  "<Hi>Hello World!</Hi>"
 end
